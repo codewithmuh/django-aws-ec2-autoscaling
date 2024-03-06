@@ -9,7 +9,7 @@ WorkingDirectory=/home/ubuntu/django-aws-ec2-autoscaling
 ExecStart=/home/ubuntu/django-aws-ec2-autoscaling/venv/bin/gunicorn \
           --access-logfile - \
           --workers 3 \
-          --bind 0.0.0.0:80 \
+          --bind 0.0.0.0:8000 \
           core.wsgi:application
 [Install]
 WantedBy=multi-user.target
