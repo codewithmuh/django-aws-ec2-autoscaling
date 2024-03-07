@@ -2,6 +2,8 @@
 
 This repository contains scripts and instructions for deploying a Django project on AWS EC2 with Auto Scaling and Load Balancer, along with other essential components such as RDS for database management, SSL certificate setup, Route53 configuration, and connecting RDS with PgAdmin for database management.
 
+![1i](https://github.com/codewithmuh/django-aws-ec2-autoscaling/assets/51082957/8042ab6b-e1fb-46b6-b9cb-fdd22d05291e)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following:
