@@ -1,7 +1,7 @@
 asgiref==3.7.2
 Django==5.0.3
-gunicorn==21.2.0
+gunicorn==21.2.0 #add
 packaging==23.2
-psycopg2==2.9.9
 sqlparse==0.4.4
-whitenoise==6.6.0
+whitenoise==6.6.0 #add
+psycopg2-binary==2.9.9
