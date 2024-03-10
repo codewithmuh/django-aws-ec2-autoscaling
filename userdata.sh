@@ -11,7 +11,6 @@ PROJECT_MAIN_DIR_NAME="django-aws-ec2-autoscaling"
 # Clone repository
 git clone "$GIT_REPO_URL" "/home/ubuntu/$PROJECT_MAIN_DIR_NAME"
 
-# Change directory to the project main directory
 cd "/home/ubuntu/$PROJECT_MAIN_DIR_NAME"
 
 # Make all .sh files executable
